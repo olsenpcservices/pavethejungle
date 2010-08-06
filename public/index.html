@@ -1,275 +1,169 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
-  <head>
-    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
-    <title>Ruby on Rails: Welcome aboard</title>
-    <style type="text/css" media="screen">
-      body {
-        margin: 0;
-        margin-bottom: 25px;
-        padding: 0;
-        background-color: #f0f0f0;
-        font-family: "Lucida Grande", "Bitstream Vera Sans", "Verdana";
-        font-size: 13px;
-        color: #333;
-      }
-      
-      h1 {
-        font-size: 28px;
-        color: #000;
-      }
-      
-      a  {color: #03c}
-      a:hover {
-        background-color: #03c;
-        color: white;
-        text-decoration: none;
-      }
-      
-      
-      #page {
-        background-color: #f0f0f0;
-        width: 750px;
-        margin: 0;
-        margin-left: auto;
-        margin-right: auto;
-      }
-      
-      #content {
-        float: left;
-        background-color: white;
-        border: 3px solid #aaa;
-        border-top: none;
-        padding: 25px;
-        width: 500px;
-      }
-      
-      #sidebar {
-        float: right;
-        width: 175px;
-      }
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
-      #footer {
-        clear: both;
-      }
-      
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Pave The Jungle!!</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="style.css" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="header-wrapper">
+	<div id="header">
+		<div id="menu">
+			<ul>
+				<li class="current_page_item"><a href="#">Home</a></li>
+				<li><a href="#">Blog</a></li>
+				<li><a href="#">Photos</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Links</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</div>
+		<!-- end #menu -->
+		<div id="search">
+			<form method="get" action="">
+				<fieldset>
+				<input type="text" name="s" id="search-text" size="15" />
+				<input type="submit" id="search-submit" value="Search" />
+				</fieldset>
+			</form>
+		</div>
+		<!-- end #search -->
+	</div>
+	<!-- end #header -->
+</div>
+<!-- end #header-wrapper -->
+<div id="page">
+	<div id="logo">
+		<h1><a href="#">Pave <span class="text1">The Jungle</span></a></h1>		
+	</div>
+	<hr />
+	<!-- end #logo -->
+	<div id="content">
+		<div class="post">
+			<h2 class="title">Welcome to Pave the Jungle!</h2>
+			<p class="meta"><em>{ Posted by <a href="#">admin</a> on March 10, 2008 }</em></p>
+			<div class="entry">
+				<p>We are raising money to build a sweet ass all weather track!!</p>
+			</div>
+		</div>
+		<div class="post">
+			<h2 class="title">Lorem ipsum sed aliquam</h2>
+			<p class="meta"><em>{ Posted by <a href="#">admin</a> on March 8, 2008 }</em></p>
+			<div class="entry">
+				<p>Sed lacus. Donec lectus. Nullam pretium nibh ut turpis. Nam bibendum. In nulla tortor, elementum vel, tempor at, varius non, purus. Mauris vitae nisl nec metus placerat consectetuer. Donec ipsum. Proin imperdiet est. Phasellus <a href="#">dapibus semper urna</a>. Pellentesque ornare, orci in consectetuer hendrerit, urna elit eleifend nunc, ut consectetuer nisl felis ac diam. Etiam non felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem. Phasellus pellentesque. Mauris quam enim, molestie in, rhoncus ut, lobortis a, est.</p>
+				<p>Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar mollis. Vestibulum sem magna, elementum ut, vestibulum eu, facilisis quis, arcu. Mauris a dolor. Nulla facilisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed blandit. Phasellus pellentesque, ante nec iaculis dapibus, eros justo auctor lectus, a lobortis lorem mauris quis nunc. Praesent pellentesque facilisis elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos hymenaeos. In hac habitasse platea dictumst. Nullam id ante eget dui vulputate aliquam. </p>
+				<p class="links"><a href="#" class="comments">Comments (64)</a> &nbsp;&nbsp;&nbsp; <a href="#" class="permalink">Full article</a></p>
+			</div>
+		</div>
+	</div>
+	<!-- end #content -->
+	<div id="sidebar">
+		<ul>
+			<li>
+				<h2>Aliquam tempus</h2>
+				<p>Mauris vitae nisl nec metus placerat perdiet est. Phasellus dapibus semper urna. Pellentesque ornare, orci in consectetuer hendrerit, volutpat.</p>
+			</li>
+			<li id="calendar">
+				<h2>Calendar</h2>
+				<div id="calendar_wrap">
+					<table summary="Calendar">
+						<caption>
+						February 2009
+						</caption>
+						<thead>
+							<tr>
+								<th abbr="Monday" scope="col" title="Monday">M</th>
+								<th abbr="Tuesday" scope="col" title="Tuesday">T</th>
+								<th abbr="Wednesday" scope="col" title="Wednesday">W</th>
+								<th abbr="Thursday" scope="col" title="Thursday">T</th>
+								<th abbr="Friday" scope="col" title="Friday">F</th>
+								<th abbr="Saturday" scope="col" title="Saturday">S</th>
+								<th abbr="Sunday" scope="col" title="Sunday">S</th>
+							</tr>
+						</thead>
+						<tfoot>
+							<tr>
+								<td abbr="February" colspan="3" id="prev"><a href="#" title="">&laquo; Feb</a></td>
+								<td class="pad">&nbsp;</td>
+								<td abbr="April" colspan="3" id="next"><a href="#" title="">Apr &raquo;</a></td>
+							</tr>
+						</tfoot>
+						<tbody>
+							<tr>
+								<td colspan="5" class="pad">&nbsp;</td>
+								<td>1</td>
+								<td>2</td>
+							</tr>
+							<tr>
+								<td>3</td>
+								<td>4</td>
+								<td>5</td>
+								<td>6</td>
+								<td>7</td>
+								<td>8</td>
+								<td>9</td>
+							</tr>
+							<tr>
+								<td>10</td>
+								<td id="today">11</td>
+								<td>12</td>
+								<td>13</td>
+								<td>14</td>
+								<td>15</td>
+								<td>16</td>
+							</tr>
+							<tr>
+								<td>17</td>
+								<td>18</td>
+								<td>19</td>
+								<td>20</td>
+								<td>21</td>
+								<td>22</td>
+								<td>23</td>
+							</tr>
+							<tr>
+								<td>24</td>
+								<td>25</td>
+								<td>26</td>
+								<td>27</td>
+								<td>28</td>
+								<td>29</td>
+								<td>30</td>
+							</tr>
+							<tr>
+								<td>31</td>
+								<td class="pad" colspan="6">&nbsp;</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</li>
+			<li>
+				<h2>Turpis nulla</h2>
+				<ul>			<li><a href="#">Nec metus sed donec</a></li>
+			<li><a href="#">Magna lacus bibendum mauris</a></li>
+			<li><a href="#">Velit semper nisi molestie</a></li>
+			<li><a href="#">Eget tempor eget nonummy</a></li>
+			<li><a href="#">Nec metus sed donec</a></li>
+			<li><a href="#">Magna lacus bibendum mauris</a></li>
+			<li><a href="#">Velit semper nisi molestie</a></li>
+</ul>
+				
+			</li>
+		</ul>
+	</div>
+	<!-- end #sidebar -->
+	<div style="clear: both;">&nbsp;</div>
+</div>
+<!-- end #page -->
 
-      #header, #about, #getting-started {
-        padding-left: 75px;
-        padding-right: 30px;
-      }
-
-
-      #header {
-        background-image: url("images/rails.png");
-        background-repeat: no-repeat;
-        background-position: top left;
-        height: 64px;
-      }
-      #header h1, #header h2 {margin: 0}
-      #header h2 {
-        color: #888;
-        font-weight: normal;
-        font-size: 16px;
-      }
-      
-      
-      #about h3 {
-        margin: 0;
-        margin-bottom: 10px;
-        font-size: 14px;
-      }
-      
-      #about-content {
-        background-color: #ffd;
-        border: 1px solid #fc0;
-        margin-left: -11px;
-      }
-      #about-content table {
-        margin-top: 10px;
-        margin-bottom: 10px;
-        font-size: 11px;
-        border-collapse: collapse;
-      }
-      #about-content td {
-        padding: 10px;
-        padding-top: 3px;
-        padding-bottom: 3px;
-      }
-      #about-content td.name  {color: #555}
-      #about-content td.value {color: #000}
-      
-      #about-content.failure {
-        background-color: #fcc;
-        border: 1px solid #f00;
-      }
-      #about-content.failure p {
-        margin: 0;
-        padding: 10px;
-      }
-      
-      
-      #getting-started {
-        border-top: 1px solid #ccc;
-        margin-top: 25px;
-        padding-top: 15px;
-      }
-      #getting-started h1 {
-        margin: 0;
-        font-size: 20px;
-      }
-      #getting-started h2 {
-        margin: 0;
-        font-size: 14px;
-        font-weight: normal;
-        color: #333;
-        margin-bottom: 25px;
-      }
-      #getting-started ol {
-        margin-left: 0;
-        padding-left: 0;
-      }
-      #getting-started li {
-        font-size: 18px;
-        color: #888;
-        margin-bottom: 25px;
-      }
-      #getting-started li h2 {
-        margin: 0;
-        font-weight: normal;
-        font-size: 18px;
-        color: #333;
-      }
-      #getting-started li p {
-        color: #555;
-        font-size: 13px;
-      }
-      
-      
-      #search {
-        margin: 0;
-        padding-top: 10px;
-        padding-bottom: 10px;
-        font-size: 11px;
-      }
-      #search input {
-        font-size: 11px;
-        margin: 2px;
-      }
-      #search-text {width: 170px}
-      
-      
-      #sidebar ul {
-        margin-left: 0;
-        padding-left: 0;
-      }
-      #sidebar ul h3 {
-        margin-top: 25px;
-        font-size: 16px;
-        padding-bottom: 10px;
-        border-bottom: 1px solid #ccc;
-      }
-      #sidebar li {
-        list-style-type: none;
-      }
-      #sidebar ul.links li {
-        margin-bottom: 5px;
-      }
-      
-    </style>
-    <script type="text/javascript" src="javascripts/prototype.js"></script>
-    <script type="text/javascript" src="javascripts/effects.js"></script>
-    <script type="text/javascript">
-      function about() {
-        if (Element.empty('about-content')) {
-          new Ajax.Updater('about-content', 'rails/info/properties', {
-            method:     'get',
-            onFailure:  function() {Element.classNames('about-content').add('failure')},
-            onComplete: function() {new Effect.BlindDown('about-content', {duration: 0.25})}
-          });
-        } else {
-          new Effect[Element.visible('about-content') ? 
-            'BlindUp' : 'BlindDown']('about-content', {duration: 0.25});
-        }
-      }
-      
-      window.onload = function() {
-        $('search-text').value = '';
-        $('search').onsubmit = function() {
-          $('search-text').value = 'site:rubyonrails.org ' + $F('search-text');
-        }
-      }
-    </script>
-  </head>
-  <body>
-    <div id="page">
-      <div id="sidebar">
-        <ul id="sidebar-items">
-          <li>
-            <form id="search" action="http://www.google.com/search" method="get">
-              <input type="hidden" name="hl" value="en" />
-              <input type="text" id="search-text" name="q" value="site:rubyonrails.org " />
-              <input type="submit" value="Search" /> the Rails site
-            </form>
-          </li>
-        
-          <li>
-            <h3>Join the community</h3>
-            <ul class="links">
-              <li><a href="http://www.rubyonrails.org/">Ruby on Rails</a></li>
-              <li><a href="http://weblog.rubyonrails.org/">Official weblog</a></li>
-              <li><a href="http://wiki.rubyonrails.org/">Wiki</a></li>
-            </ul>
-          </li>
-          
-          <li>
-            <h3>Browse the documentation</h3>
-            <ul class="links">
-              <li><a href="http://api.rubyonrails.org/">Rails API</a></li>
-              <li><a href="http://stdlib.rubyonrails.org/">Ruby standard library</a></li>
-              <li><a href="http://corelib.rubyonrails.org/">Ruby core</a></li>
-              <li><a href="http://guides.rubyonrails.org/">Rails Guides</a></li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-
-      <div id="content">
-        <div id="header">
-          <h1>Welcome aboard</h1>
-          <h2>You&rsquo;re riding Ruby on Rails!</h2>
-        </div>
-
-        <div id="about">
-          <h3><a href="rails/info/properties" onclick="about(); return false">About your application&rsquo;s environment</a></h3>
-          <div id="about-content" style="display: none"></div>
-        </div>
-        
-        <div id="getting-started">
-          <h1>Getting started</h1>
-          <h2>Here&rsquo;s how to get rolling:</h2>
-          
-          <ol>          
-            <li>
-              <h2>Use <tt>script/generate</tt> to create your models and controllers</h2>
-              <p>To see all available options, run it without parameters.</p>
-            </li>
-            
-            <li>
-              <h2>Set up a default route and remove or rename this file</h2>
-              <p>Routes are set up in config/routes.rb.</p>
-            </li>
-
-            <li>
-              <h2>Create your database</h2>
-              <p>Run <tt>rake db:migrate</tt> to create your database. If you're not using SQLite (the default), edit <tt>config/database.yml</tt> with your username and password.</p>
-            </li>
-          </ol>
-        </div>
-      </div>
-      
-      <div id="footer">&nbsp;</div>
-    </div>
-  </body>
+<div id="footer">
+	<p>Copyright (c) 2008 Pavethejungle.com. All rights reserved. Provided by <a href="http://www.olsenpcservices.com">Olsen PC Services</a> </p>
+</div>
+<!-- end #footer -->
+<div style="position:absolute;left:-30000px;top:-30000px"><a href="http://www.template4all.com/" title="Free Website Templates" target="_blank" rel="nofollow">Free Website Templates</a><a href="http://www.freethemes4all.com/wordpress-themes/" title="Free Wordpress Themes" target="_blank" rel="nofollow">Freethemes4all.com</a><a href="http://www.freethemes4all.com/css-templates/" title="Free css Templates" target="_blank" rel="nofollow">Free CSS Templates</a><a href="http://www.freethemes4all.com/joomla-templates/" title="Free joomla templates" target="_blank" rel="nofollow">Free Joomla Templates</a><a href="http://www.freethemes4all.com/blogger-templates/" title="Free blogger templates" target="_blank" rel="nofollow">Free Blogger Templates</a><a href="http://www.freethemes4all.com/wordpress-themes/" title="Free Wordpress Themes" target="_blank" rel="nofollow">Free Wordpress Themes</a><a href="http://www.template4all.com/wordpress/" title="Free Wordpress Themes Templates" target="_blank" rel="nofollow">Free Wordpress Themes Templates</a><a href="http://www.template4all.com/css/" title="Free css templates dreamweaver" target="_blank" rel="nofollow">Free CSS Templates dreamweaver</a><a href="http://www.seodesign.us" title="Agence Web Maroc" target="_blank" rel="nofollow">SEO Design</a></div>
+</body>
 </html>
