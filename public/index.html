@@ -7,8 +7,39 @@
     <meta name="keywords" content=""/>
     <meta name="description" content=""/>
     <link href="style.css" rel="stylesheet" type="text/css" media="screen"/>
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-17749574-2']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
 </head>
 <body>
+<div id="fb-root"></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({appId: 'your app id', status: true, cookie: true,
+            xfbml: true});
+    };
+
+    (function() {
+        var e = document.createElement('script');
+        e.async = true;
+        e.src = document.location.protocol +
+                '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    }());
+</script>
 <div id="header-wrapper">
     <div id="header">
         <div id="menu">
@@ -48,6 +79,11 @@
                     students of the
                     Madrid Community School District with the purpose of maintaining, enhancing, and promoting personal
                     excellence in education, athletics, and the arts.</p>
+
+                <p>
+                    <fb:like
+                            href="http://www.facebook.com/#!/pages/Pave-the-Jungle/125763440797651?v=info&ref=ts"></fb:like>
+                </p>
             </div>
         </div>
     </div>

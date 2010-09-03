@@ -27,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="12" selection-start="529" selection-end="856" vertical-scroll-proportion="-1.1034483">
+            <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-6.1034484">
               <folding />
             </state>
           </provider>
@@ -36,7 +36,7 @@
       <file leaf-file-name="donate.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/donate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="17" selection-start="856" selection-end="856" vertical-scroll-proportion="-6.6551723">
+            <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-7.7586207">
               <folding />
             </state>
           </provider>
@@ -45,16 +45,16 @@
       <file leaf-file-name="events.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="17" selection-start="854" selection-end="854" vertical-scroll-proportion="-4.706897">
+            <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-7.7586207">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="photos.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="photos.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/photos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="252" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.40661478">
+            <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-7.7586207">
               <folding />
             </state>
           </provider>
@@ -63,16 +63,16 @@
       <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="20" selection-start="1284" selection-end="1284" vertical-scroll-proportion="-1.1034483">
+            <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-7.7586207">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="20" selection-start="1726" selection-end="1726" vertical-scroll-proportion="-9.333333">
+            <state line="132" column="20" selection-start="1726" selection-end="1726" vertical-scroll-proportion="7.502664">
               <folding />
             </state>
           </provider>
@@ -89,11 +89,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/public/style.css" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/public/donate.html" />
-        <option value="$PROJECT_DIR$/public/events.html" />
         <option value="$PROJECT_DIR$/public/contact.html" />
         <option value="$PROJECT_DIR$/public/photos.html" />
+        <option value="$PROJECT_DIR$/public/events.html" />
+        <option value="$PROJECT_DIR$/public/donate.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -387,44 +387,44 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="20" selection-start="1726" selection-end="1726" vertical-scroll-proportion="-9.333333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="12" selection-start="529" selection-end="856" vertical-scroll-proportion="-1.1034483">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/donate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="17" selection-start="856" selection-end="856" vertical-scroll-proportion="-6.6551723">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/events.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="17" selection-start="854" selection-end="854" vertical-scroll-proportion="-4.706897">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="20" selection-start="1284" selection-end="1284" vertical-scroll-proportion="-1.1034483">
+        <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-7.7586207">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/photos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="252" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.40661478">
+        <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-7.7586207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-7.7586207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/donate.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-7.7586207">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="13" selection-start="1002" selection-end="1002" vertical-scroll-proportion="-6.1034484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="20" selection-start="1726" selection-end="1726" vertical-scroll-proportion="7.502664">
           <folding />
         </state>
       </provider>
