@@ -1,0 +1,55 @@
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-09-06 16:38:13) [GET]
+
+ActionController::RoutingError (No route matches "/events/style.css" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-09-06 16:38:35) [GET]
+
+ActionController::RoutingError (No route matches "/events/index.html" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-09-06 16:57:09) [GET]
+
+ActionController::RoutingError (No route matches "/events/images/events/emma_gabe.jpg" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-09-06 16:57:20) [GET]
+
+ActionController::RoutingError (No route matches "/events/images/events/emma_gabe.jpg" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-09-06 16:57:24) [GET]
+
+ActionController::RoutingError (No route matches "/events/images/events/emma_gabe.jpg" with {:method=>:get}):
+  <internal:prelude>:8:in `synchronize'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  c:/tools/Ruby/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
