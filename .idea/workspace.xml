@@ -27,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="50" selection-start="1793" selection-end="1793" vertical-scroll-proportion="-5.5172415">
+            <state line="99" column="25" selection-start="3507" selection-end="3507" vertical-scroll-proportion="-2.2413793">
               <folding />
             </state>
           </provider>
@@ -36,7 +36,7 @@
       <file leaf-file-name="donate.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/donate.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="32" selection-start="1868" selection-end="1881" vertical-scroll-proportion="-4.448276">
+            <state line="69" column="25" selection-start="2132" selection-end="2132" vertical-scroll-proportion="-2.7931035">
               <folding />
             </state>
           </provider>
@@ -45,7 +45,7 @@
       <file leaf-file-name="sponsors.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/sponsors.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="36" selection-start="1334" selection-end="1334" vertical-scroll-proportion="-3.6034484">
+            <state line="69" column="25" selection-start="2127" selection-end="2127" vertical-scroll-proportion="-2.2413793">
               <folding />
             </state>
           </provider>
@@ -54,16 +54,16 @@
       <file leaf-file-name="events.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/events.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="58" selection-start="1872" selection-end="1872" vertical-scroll-proportion="-3.3448277">
+            <state line="69" column="25" selection-start="2246" selection-end="2246" vertical-scroll-proportion="-2.2413793">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rocktober.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="rocktober.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/events/rocktober.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="32" selection-start="1940" selection-end="1940" vertical-scroll-proportion="0.5933852">
+            <state line="70" column="25" selection-start="2209" selection-end="2209" vertical-scroll-proportion="-2.2413793">
               <folding />
             </state>
           </provider>
@@ -72,16 +72,16 @@
       <file leaf-file-name="clinic.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/events/clinic.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="31" selection-start="3383" selection-end="3383" vertical-scroll-proportion="2.724138">
+            <state line="112" column="25" selection-start="4811" selection-end="4811" vertical-scroll-proportion="-2.2413793">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="contact.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="21" selection-start="2521" selection-end="2521" vertical-scroll-proportion="-25.965517">
+            <state line="80" column="25" selection-start="2767" selection-end="2767" vertical-scroll-proportion="0.4396887">
               <folding />
             </state>
           </provider>
@@ -107,14 +107,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/public/photos.html" />
-        <option value="$PROJECT_DIR$/public/sponsors.html" />
-        <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/public/contact.html" />
-        <option value="$PROJECT_DIR$/public/events.html" />
         <option value="$PROJECT_DIR$/public/style.css" />
-        <option value="$PROJECT_DIR$/public/events/clinic.html" />
-        <option value="$PROJECT_DIR$/public/donate.html" />
         <option value="$PROJECT_DIR$/public/events/rocktober.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/donate.html" />
+        <option value="$PROJECT_DIR$/public/sponsors.html" />
+        <option value="$PROJECT_DIR$/public/events.html" />
+        <option value="$PROJECT_DIR$/public/events/clinic.html" />
+        <option value="$PROJECT_DIR$/public/contact.html" />
       </list>
     </option>
   </component>
@@ -192,28 +192,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pavethejungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pavethejungle" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="events" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -430,34 +408,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="50" selection-start="1793" selection-end="1793" vertical-scroll-proportion="-5.5172415">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/sponsors.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="36" selection-start="1334" selection-end="1334" vertical-scroll-proportion="-3.6034484">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="21" selection-start="2521" selection-end="2521" vertical-scroll-proportion="-25.965517">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/events/clinic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="31" selection-start="3383" selection-end="3383" vertical-scroll-proportion="2.724138">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="196" column="23" selection-start="2651" selection-end="2651" vertical-scroll-proportion="-12.285714">
@@ -465,23 +415,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/events.html">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="58" selection-start="1872" selection-end="1872" vertical-scroll-proportion="-3.3448277">
+        <state line="99" column="25" selection-start="3507" selection-end="3507" vertical-scroll-proportion="-2.2413793">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/donate.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="32" selection-start="1868" selection-end="1881" vertical-scroll-proportion="-4.448276">
+        <state line="69" column="25" selection-start="2132" selection-end="2132" vertical-scroll-proportion="-2.7931035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/sponsors.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="25" selection-start="2127" selection-end="2127" vertical-scroll-proportion="-2.2413793">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/events.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="25" selection-start="2246" selection-end="2246" vertical-scroll-proportion="-2.2413793">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/events/rocktober.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="32" selection-start="1940" selection-end="1940" vertical-scroll-proportion="0.5933852">
+        <state line="70" column="25" selection-start="2209" selection-end="2209" vertical-scroll-proportion="-2.2413793">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/events/clinic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="25" selection-start="4811" selection-end="4811" vertical-scroll-proportion="-2.2413793">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="25" selection-start="2767" selection-end="2767" vertical-scroll-proportion="0.4396887">
           <folding />
         </state>
       </provider>
