@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager" verified="true">
     <list default="true" readonly="true" id="fc9ba5ba-19bd-4549-ac57-1107bfd9282c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/pavethejungle.iml" afterPath="$PROJECT_DIR$/.idea/pavethejungle.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/events/rocktober.html" afterPath="$PROJECT_DIR$/public/events/rocktober.html" />
     </list>
     <ignored path="pavethejungle.iws" />
@@ -68,7 +66,16 @@
       <file leaf-file-name="rocktober.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/events/rocktober.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="63" selection-start="2454" selection-end="2454" vertical-scroll-proportion="0.30287984">
+            <state line="63" column="56" selection-start="2566" selection-end="2566" vertical-scroll-proportion="0.35451838">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tenkrun.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/events/tenkrun.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="24" selection-start="2610" selection-end="2610" vertical-scroll-proportion="-22.172413">
               <folding />
             </state>
           </provider>
@@ -77,7 +84,7 @@
       <file leaf-file-name="fivekrun.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/events/fivekrun.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="24" selection-start="2605" selection-end="2605" vertical-scroll-proportion="-10.5172415">
+            <state line="57" column="30" selection-start="2252" selection-end="2252" vertical-scroll-proportion="-7.827586">
               <folding />
             </state>
           </provider>
@@ -121,6 +128,7 @@
         <option value="$PROJECT_DIR$/public/contact.html" />
         <option value="$PROJECT_DIR$/public/donate.html" />
         <option value="$PROJECT_DIR$/public/events/fivekrun.html" />
+        <option value="$PROJECT_DIR$/public/events/tenkrun.html" />
         <option value="$PROJECT_DIR$/public/events/rocktober.html" />
       </list>
     </option>
@@ -495,16 +503,23 @@
         <state line="196" column="23" selection-start="2651" selection-end="2651" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/events/tenkrun.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="24" selection-start="2610" selection-end="2610" vertical-scroll-proportion="-22.172413">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/events/fivekrun.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="24" selection-start="2605" selection-end="2605" vertical-scroll-proportion="-10.5172415">
+        <state line="57" column="30" selection-start="2252" selection-end="2252" vertical-scroll-proportion="-7.827586">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/events/rocktober.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="63" selection-start="2454" selection-end="2454" vertical-scroll-proportion="0.30287984">
+        <state line="63" column="56" selection-start="2566" selection-end="2566" vertical-scroll-proportion="0.35451838">
           <folding />
         </state>
       </provider>
