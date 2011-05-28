@@ -221,7 +221,7 @@ hr { display: none; }
 #sidebar {
 	float: right;
 	width: 20%;
-	margin-top: -100px;
+	margin-top: -0px;
 	padding-left: 30px;
 }
 
